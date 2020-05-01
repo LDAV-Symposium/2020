@@ -110,7 +110,7 @@ reviewing criteria. This award will be announced in conjunction with VIS 2020.
 Please note: all deadlines are firm and no extensions will be granted.
 
 Abstract Deadline (firm) 
-: July 7, 2020
+: July 7, 2020, 11:59 PM (AOE)
 
 Paper Submission (firm)
 : July 12, 2020, 11:59 PM (AOE)
