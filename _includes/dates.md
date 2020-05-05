@@ -14,10 +14,8 @@ Author Notifications
 Camera-Ready Deadline
 : August 28, 2020
 
-<!--
 Poster Submissions
 : August 24, 2020
--->
 
 ## Symposium
 
