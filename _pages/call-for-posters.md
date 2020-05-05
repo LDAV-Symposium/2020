@@ -53,7 +53,7 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 
 ## Important Dates
 
-Two-page poster paper submission
+Two-page Poster Paper Submission
 : August 24, 2020, 11:59 PM (AOE)
 
 Author Notification:	
