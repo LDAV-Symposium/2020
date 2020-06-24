@@ -106,9 +106,7 @@ authors whose submission is deemed the strongest according to the
 reviewing criteria. This award will be announced in conjunction with VIS 2020. 
 
 The Best Paper for LDAV will be published directly in IEEE Transactions on 
-Visualization and Computer Graphics (TVCG). Further, other excellent papers 
-will be encouraged to submit journal versions of their work to TVCG (at least 
-30% new scientific/technical content), with reviewer continuity.
+Visualization and Computer Graphics (TVCG). Further, in accordance with TVCG's <a href="https://www.computer.org/publications/author-resources/peer-review/journals#preliminary">policy for extending conference papers</a>, some excellent papers will be encouraged to submit journal versions of their work to TVCG, with reviewer continuity.
 
 ## Important Dates
 
