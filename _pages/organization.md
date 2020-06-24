@@ -51,72 +51,69 @@ Kenneth Moreland
 : Sandia National Laboratories
 </div>
 
-<!-- <div class="left">
+<div class="left">
 ## Program Committee
 
 Jeff Baumes
 : Kitware, Inc.
 
-Janine Bennett
-: Sandia National Laboratories
-
 Wes Bethel
 : Lawrence Berkeley National Laboratory
-
-Harsh Bhatia
-: Lawrence Livermore National Laboratory
 
 Chris Bryan
 : Arizona State University
 
+Hamish Carr
+: University of Leeds
+
 Silvia Castro
 : Universidad Nacional del Sur
+
+Wei Chen
+: Zhejiang University
 
 Amit Chourasia
 : San Diego Supercomputer Center
 
+Patricia Crossno	
+: Sandia National Laboratories
+
 Harish Doraiswamy
 : New York University
 
-Soumya Dutta
-: Los Alamos National Laboratory
-
-Steffen Frey
-: University of Stuttgart
-
-Issei Fujishiro
+Issei	Fujishiro	
 : Keio University
 
-Kelly Gaither
-: Texas Advanced Computing Center
-
-Berk Geveci
+Berk Geveci	
 : Kitware, Inc.
 
 Tobias G&uuml;ther
 : ETH Zurich
 
-Hanqi Guo
-: Argonne National Laboratory
+Markus Hadwiger	
+: KAUST
 
 Ingrid Hotz
 : Link&ouml;ing University
-</div>
-
-<div class="right">
-## &nbsp;
-
-Jian Huang
-: University of Tennessee, Knoxville
 
 Katherine Isaacs
 : University of Arizona
 
-Won-Ki Jeong
-: Ulsan National Institute of Science and Technology
-
-Yun Jang
+Yun Jang	
 : Sejong University
+
+Ming Jiang	
+: Lawrence Livermore National Laboratory
+</div>
+
+<div class="right">
+## &nbsp;
+  
+James Klosowski
+: AT&T Labs Research
+
+Aaron	Knoll
+: Intel Cooperation
 
 Joshua Levine
 : University of Arizona
@@ -130,8 +127,8 @@ Shusen Liu
 Zhicheng Liu
 : Adobe Research
 
-Kwan-Liu Ma
-: University of California, Davis
+Vijay Natarajan
+: Indian Institute of Science
 
 Ron Oldfield
 : Sandia National Laboratories
@@ -139,11 +136,26 @@ Ron Oldfield
 Patrick  O'Leary
 : Kitware, Inc.
 
-Brian Summa
-: Tulane University
+Tom	Peterka
+: Argonne National Laboratory
 
-Jun Tao
-: Sun Yat-sen University
+Bruno Raffin
+: INRIA
+
+Silvio Rizzi
+: Argonne National Laboratory
+
+Filip Sadlo	
+: Heidelberg University
+
+Allen Sanderson	
+: University of Utah
+
+Han-Wei	Shen
+: The Ohio State University
+
+David	Thompson
+: Kitware, Inc.
 
 Xavier Tricoche
 : Purdue University
@@ -151,6 +163,6 @@ Xavier Tricoche
 Yang Wang
 : Uber Technologies, Inc.
 
-</div> -->
+</div>
 
 
