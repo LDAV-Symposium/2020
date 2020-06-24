@@ -104,14 +104,14 @@ Yun Jang
 
 Ming Jiang	
 : Lawrence Livermore National Laboratory
+
+James Klosowski
+: AT&T Labs Research
 </div>
 
 <div class="right">
 ## &nbsp;
   
-James Klosowski
-: AT&T Labs Research
-
 Aaron	Knoll
 : Intel Cooperation
 
