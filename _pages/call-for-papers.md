@@ -85,7 +85,7 @@ full paper can also be submitted as a short paper.
 
 LDAV is accepting both full papers and short papers. The manuscripts 
 should be formatted according to 
-[guidelines from IEEE VGTC](http://www.cs.sfu.ca/~vis/Tasks/camera.html). 
+[guidelines from IEEE VGTC](http://vgtc.org/publications/conference). 
 Submission of an abstract is required prior to submission of a paper or short paper. 
 
 Submission site note: Go to the
