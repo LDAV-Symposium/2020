@@ -26,7 +26,7 @@ The authors should indicate if they would like the poster to be accompanied by a
 ## Poster 2-Page Summary Submission Instructions
 
 Submitted summaries may not exceed the maximum of two pages in length including references. 
-The summary should be formatted according to guidelines available on the [IEEE VGTC Website](http://junctionpublishing.org/vgtc/Tasks/camera.html).
+The summary should be formatted according to guidelines available on the [IEEE VGTC Website](http://vgtc.org/publications/conference).
 
 **Submission Site:**
 Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, go to 'Submissions', and select 
