@@ -15,9 +15,10 @@ All presenters are encouraged to use the [LDAV slide template].
 To gain maximum size and benefit on the screen, we suggest presenters
 use the 16x9 wide format PowerPoint templates.
 
-Additional information regarding the facility equipment is available
-from the [IEEE VIS speaker information]. (Note that LDAV has a different
-slide template and talk length than the main VIS conference.)
+LDAV 2020 is held in a virtual format in conjunction with IEEE VIS 2020 using 
+video presentations. Please read thoroughly technical information for 
+recording your talk from the [IEEE VIS speaker information]. 
+(Note that LDAV has a different slide template and talk length than the main VIS conference.)
 
-[LDAV slide template]: assets/LDAV_2019_Template.pptx
-[IEEE VIS speaker information]: http://ieeevis.org/year/2019/info/presenter-information/speakers-and-presenters
+[LDAV slide template]: assets/LDAV_2020_Template.pptx
+[IEEE VIS speaker information]: http://ieeevis.org/year/2020/info/presenter-information/talk-recording-guide
