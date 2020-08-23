@@ -7,7 +7,7 @@ title: Presenters
 
 ## Paper Presentation
 
-All papers (short and long) get 25 minutes for the talk and then 5 minutes
+All papers (short and long) get 20 minutes for the talk and then 10 minutes
 for questions and switching presenters. We have a full schedule this year –
 please stay on time.
 
