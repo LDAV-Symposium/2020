@@ -7,7 +7,7 @@ title: Call for Posters
 
 Contact: <posters@ldav.org>
 
-We invite you to submit unpublished work to the IEEE LDAV 2019 Poster Program.
+We invite you to submit unpublished work to the IEEE LDAV 2020 Poster Program.
 It is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. 
 The poster program will be a great opportunity for the authors to interact with the symposium attendees and solicit feedback.
 
@@ -54,11 +54,11 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 ## Important Dates
 
 Two-page Poster Paper Submission
-: August 24, 2020, 11:59 PM (AOE)
+: September 1, 2020, 11:59 PM (AOE)
 
 Author Notification
-: August 28, 2020
+: September 8, 2020
 
 Camera-Ready Deadline
-: September 4, 2020
+: September 11, 2020
 
