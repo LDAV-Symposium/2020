@@ -15,6 +15,9 @@ Camera-Ready Deadline
 : ~~August 28, 2020~~
 : September 7, 2020
 
+Presentation Videos
+: September 14, 2020
+
 Poster Submissions
 : August 24, 2020
 
