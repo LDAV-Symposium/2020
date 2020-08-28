@@ -12,7 +12,7 @@ Author Notifications
 : August 21, 2020
 
 Camera-Ready Deadline
-~~: August 28, 2020~~
+: ~~August 28, 2020~~
 : September 7, 2020
 
 Poster Submissions
