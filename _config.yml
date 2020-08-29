@@ -15,7 +15,7 @@ navigation:
    url: index.html
 # - title: Program
 # url: program.html
- - title: Presentation and Final Submission information
+ - title: Presentation and Final Submission Information
    url: presenters.html 
  - title: Call for Papers
    url: call-for-papers.html
