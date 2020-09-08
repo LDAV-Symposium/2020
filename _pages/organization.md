@@ -27,7 +27,7 @@ Kristi Potter
 Chaoli Wang
 : University of Notre Dame
 
-## Poster Co-Chairs
+## Poster Chairs
 
 Steffen Frey
 : University of Stuttgart 
