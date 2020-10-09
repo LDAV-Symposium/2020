@@ -64,7 +64,7 @@ title: Program
   </tr>
   <tr>
     <td>11:30am &ndash; 12:00 pm</td>
-    <td>Lunch</td>
+    <td>Break</td>
   </tr>
   <tr>
     <td>12:00pm &ndash; 1:30pm</td>
@@ -82,8 +82,7 @@ title: Program
           <i>Jonas Lukasczyk, Christoph Garth, Matthew Larsen, Wito Engelke, Ingrid Hotz, David Rogers, James Ahrens, Ross Maciejewski</i>          
         </li>
         <li>
-          Spatial Partitioning Strategies for Memory-Efficient Ray Tracing of Particles<br/>
-          <font color="#0087FF"><strong>Best Paper</strong></font><br/>
+          Spatial Partitioning Strategies for Memory-Efficient Ray Tracing of Particles<br/>          
           <i>Patrick Gralka, Ingo Wald, Sergej Geringer, Guido Reina, Thomas Ertl</i>
         </li>        
       </ul>
