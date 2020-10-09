@@ -96,7 +96,7 @@ title: Program
     <td>2:00pm &ndash; 3:20pm</td>
     <td>
       <h4>Panel</h4>
-      <b>Technical advances in the Era of Big Data Analysis and Visualization</b><br/>
+      <b>Technical Advances in the Era of Big Data Analysis and Visualization</b><br/>
       <i>Moderator: Julien Tierny</i><br/>
       <i>Panelists: Jim Ahrens, Janine Bennett, Andreas Gerndt, Ken Moreland, Manish Parashar</i><br/>
       <small>The year 2020 marks the tenth edition of the IEEE Symposium on Large Data Analysis and Visualization. At the occasion of this milestone, we would like to take a step back to contemplate the main accomplishments of our community over the last decade and present the main ongoing efforts in the land of large data analysis and visualization. For this, we gathered a panel of leading experts in the field, who will present their feedback on progresses in the last ten years and ongoing efforts on the topic. Future directions to take as a community, and how to organize research efforts to address them, will also be an important aspect of the panel. </small>
