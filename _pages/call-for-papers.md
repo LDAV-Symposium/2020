@@ -73,6 +73,9 @@ applications, evaluations, or theory. The contributions of full papers
 are reviewed based on their novelty, contribution, replicability, and 
 evaluation. 
 
+#### New this year!
+The Best Paper for IEEE LDAV will be published directly in IEEE Transactions on Visualization and Computer Graphics (TVCG).  Further, other excellent papers will be encouraged to submit journal versions of their work to TVCG (at least 30% new scientific/technical content), with reviewer continuity.
+
 ### Short Papers
 Short papers should have a length of 4-5 pages in total. Short papers 
 are a venue to report smaller contributions than full papers. Position 
