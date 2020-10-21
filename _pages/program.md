@@ -12,13 +12,13 @@ title: Program
   <tr>
     <td>8:00am &ndash; 8:10am</td>
     <td>
-      Opening Remarks<br/>      
+      Opening Remarks (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)<br/>      
     </td>
   </tr>
   <tr>
     <td>8:10am &ndash; 9:00am</td>
     <td>
-      <h4>Keynote Presentation</h4>
+      <h4>Keynote Presentation (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)</h4>
       <b>Large-Scale Visual Analytics: A Reflection on Methodology and Practice</b><br/>
       <i>Professor Huamin Qu, Hong Kong University of Science and Technology</i>
       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
@@ -27,7 +27,7 @@ title: Program
   <tr>
     <td>9:00am &ndash; 9:30am</td>
     <td>
-      <h4>Best Paper</h4>
+      <h4>Best Paper  (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)</h4>
       (Session Chair: Hongfeng Yu)
       <ul>
         <li>
@@ -44,7 +44,7 @@ title: Program
   <tr>
     <td>10:00am &ndash; 11:30pm</td>
     <td>
-      <h4>Session: In Situ</h4>
+      <h4>Session: In Situ (<a href="https://youtu.be/skM-gluIXzU" target="new">Youtube live stream</a>)</h4>
       (Session Chair: Ming Jiang)
       <ul>
         <li>
@@ -69,7 +69,7 @@ title: Program
   <tr>
     <td>12:00pm &ndash; 1:30pm</td>
     <td>
-      <h4>Session: Rendering and Displays</h4>
+      <h4>Session: Rendering and Displays (<a href="https://youtu.be/Jh7Dv9VmrZM" target="new">Youtube live stream</a>)</h4>
       (Session Chair: Markus Hadwiger)
       <ul>
         <li>
@@ -96,7 +96,7 @@ title: Program
     <td>2:00pm &ndash; 3:20pm</td>
     <td>
       <h4>Panel</h4>
-      <b>Technical Advances in the Era of Big Data Analysis and Visualization</b><br/>
+      <b>Technical Advances in the Era of Big Data Analysis and Visualization (<a href="https://youtu.be/3tqyvXIRnyY" target="new">Youtube live stream</a>)</b><br/>
       <i>Moderator: Julien Tierny</i><br/>
       <i>Panelists: Jim Ahrens, Janine Bennett, Andreas Gerndt, Ken Moreland, Manish Parashar</i><br/>
       <small>The year 2020 marks the tenth edition of the IEEE Symposium on Large Data Analysis and Visualization. At the occasion of this milestone, we would like to take a step back to contemplate the main accomplishments of our community over the last decade and present the main ongoing efforts in the land of large data analysis and visualization. For this, we gathered a panel of leading experts in the field, who will present their feedback on progresses in the last ten years and ongoing efforts on the topic. Future directions to take as a community, and how to organize research efforts to address them, will also be an important aspect of the panel. </small>
