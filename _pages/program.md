@@ -12,13 +12,13 @@ title: Program
   <tr>
     <td>8:00am &ndash; 8:10am</td>
     <td>
-      Opening Remarks<br/>      
+      Opening Remarks (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)<br/>      
     </td>
   </tr>
   <tr>
     <td>8:10am &ndash; 9:00am</td>
     <td>
-      <h4>Keynote Presentation</h4>
+      <h4>Keynote Presentation (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)</h4>
       <b>Large-Scale Visual Analytics: A Reflection on Methodology and Practice</b><br/>
       <i>Professor Huamin Qu, Hong Kong University of Science and Technology</i>
       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
@@ -27,7 +27,7 @@ title: Program
   <tr>
     <td>9:00am &ndash; 9:30am</td>
     <td>
-      <h4>Best Paper</h4>
+      <h4>Best Paper  (<a href="https://youtu.be/egXjNGyYHlQ" target="new">Youtube live stream</a>)</h4>
       (Session Chair: Hongfeng Yu)
       <ul>
         <li>
