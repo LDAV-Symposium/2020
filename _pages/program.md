@@ -104,7 +104,8 @@ title: Program
   </tr>
   <tr>
     <td>3:20pm &ndash; 3:30pm</td>
-    <td>    
+    <td>
+      Best Paper Awards<br/>
       Closing Remarks
     </td>
   </tr>
