@@ -69,7 +69,7 @@ title: Program
   <tr>
     <td>12:00pm &ndash; 1:30pm</td>
     <td>
-      <h4>Session: Rendering and Displays (<a href="https://youtu.be/Jh7Dv9VmrZM" target="new">Youtube live stream</a>)</h4>
+      <h4>Session: Rendering and Displays (<a href="https://youtu.be/piBNlAZKHAM" target="new">Youtube live stream</a>)</h4>
       (Session Chair: Markus Hadwiger)
       <ul>
         <li>
