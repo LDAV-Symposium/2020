@@ -52,7 +52,7 @@ title: Program
           <i>Qi Wu, Tyson Neuroth, Oleg Igouchkine, Aditya Konduri, Jacqueline Chen, Kwan-Liu Ma</i>          
         </li>
         <li>
-          <a href="https://doi.org/10.1109/LDAV51489.2020.00008" target="new">Data Parallel Hypersweeps for In Situ Topological Analysis<br/>
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00008" target="new">Data Parallel Hypersweeps for In Situ Topological Analysis</a><br/>
           <i>Petar Hristov, Gunther Weber, Hamish Carr, Oliver Rübel, James Ahrens</i>          
         </li>
         <li>
