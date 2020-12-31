@@ -48,15 +48,15 @@ title: Program
       (Session Chair: Ming Jiang)
       <ul>
         <li>
-          DIVA: A Declarative and Reactive Language for In Situ Visualization<br/>
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00007" target="new">DIVA: A Declarative and Reactive Language for In Situ Visualization</a><br/>
           <i>Qi Wu, Tyson Neuroth, Oleg Igouchkine, Aditya Konduri, Jacqueline Chen, Kwan-Liu Ma</i>          
         </li>
         <li>
-          Data Parallel Hypersweeps for In Situ Topological Analysis<br/>
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00008" target="new">Data Parallel Hypersweeps for In Situ Topological Analysis<br/>
           <i>Petar Hristov, Gunther Weber, Hamish Carr, Oliver Rübel, James Ahrens</i>          
         </li>
         <li>
-          Comparing Time-to-Solution for In Situ Visualization Paradigms at Scale<br/>
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00009" target="new">Comparing Time-to-Solution for In Situ Visualization Paradigms at Scale</a><br/>
           <i>James Kress, Matthew Larsen, Jong Choi, Mark Kim, Mathew Wolf, Norbert Podhorszki, Scott Klasky, Hank Childs, David Pugmire</i>          
         </li>        
       </ul>
@@ -73,16 +73,16 @@ title: Program
       (Session Chair: Markus Hadwiger)
       <ul>
         <li>
-          Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?<br/>
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00010" target="new">Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?</a><br/>
           <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Will Usher, Valerio Pascucci</i>          
         </li>
         <li>
-          Cinema Darkroom: A Deferred Rendering Framework for Large-Scale Datasets<br/>          
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00011" target="new">Cinema Darkroom: A Deferred Rendering Framework for Large-Scale Datasets</a><br/>          
           <i>Jonas Lukasczyk, Christoph Garth, Matthew Larsen, Wito Engelke, Ingrid Hotz, David Rogers, James Ahrens, Ross Maciejewski</i>          
         </li>
         <li>
-          Spatial Partitioning Strategies for Memory-Efficient Ray Tracing of Particles<br/>          
+          <a href="https://doi.org/10.1109/LDAV51489.2020.00012" target="new">Spatial Partitioning Strategies for Memory-Efficient Ray Tracing of Particles</a><br/>          
           <i>Patrick Gralka, Ingo Wald, Sergej Geringer, Guido Reina, Thomas Ertl</i>
         </li>        
       </ul>
@@ -131,6 +131,6 @@ Prof. Huamin Qu is the Director of Interdisciplinary Programs Office (IPO) and a
 
 The LDAV posters session will take place virtually with IEEE VIS Poster Session via iPosters.
 
-  * A Distributed Algorithm for Force Directed Edge Bundling<br />
+  * <a href="https://doi.org/10.1109/LDAV51489.2020.00013" target="new">A Distributed Algorithm for Force Directed Edge Bundling</a><br />
    _Yves Tuyishime, Yu Pan, Hongfeng Yu_
   
